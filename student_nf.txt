@@ -1,0 +1,5 @@
+Halo pa, saya Ihsan dari Bogor mahasiswa STT NF tahun 2021
+ini resolusi saya:
+1. menguasai GIT dan Github
+2. Menguasai PHP dasar, OOP dan Framework (CI)
+3. Menguasai Basis data
